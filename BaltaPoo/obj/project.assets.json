@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felps\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Felps\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Felps\\RiderProjects\\BaltaPoo\\BaltaPoo\\BaltaPoo.csproj",
+      "projectName": "BaltaPoo",
+      "projectPath": "C:\\Users\\Felps\\RiderProjects\\BaltaPoo\\BaltaPoo\\BaltaPoo.csproj",
       "packagesPath": "C:\\Users\\Felps\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felps\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Felps\\RiderProjects\\BaltaPoo\\BaltaPoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Felps\\AppData\\Roaming\\NuGet\\NuGet.Config"
